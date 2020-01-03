@@ -1,0 +1,16 @@
+Correzione compito
+-Correttezza Codice (5): 
+  * il codice non funziona: la variabile usata per scorrere i pixel e riferita nel while è sbagliata
+  * le variabili di dimesione dei quadrati sono inizializzate in maniera erronea 
+
+-Chiarezza del Codice (8):
+   * buona: commenti e nomi variabili
+
+-Completezza del Codice (5):
+   * mancano la gestione del "riempimento" dell'ultima riga dell'immagine
+   * manca il decode
+
+-Originalità (7):
+   * hai usato l'input grafico
+   
+Voto finale: 6+
